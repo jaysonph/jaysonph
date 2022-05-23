@@ -14,10 +14,12 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 
 ### Blockchain
 
 ![web3.js](https://img.shields.io/badge/-web3.js-000?&logo=web3dotjs&logoColor=F90)
+![web3.py](https://img.shields.io/badge/-web3.py-000?&logo=web3dotpy)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=ethereum)
 
 ### Technologies
